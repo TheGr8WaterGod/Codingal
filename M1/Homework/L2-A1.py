@@ -1,0 +1,10 @@
+x = 5
+y = 9
+z = 1
+temp = x
+x = z
+z = y
+y = temp
+print("x =", x)
+print("y =", y)   
+print("z =", z)
