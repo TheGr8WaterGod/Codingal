@@ -11,3 +11,4 @@ if attendance_percentage < 75:
     print("You are not eligible to sit in the exam.")
 else:
     print("You are eligible to sit in the exam.")
+#attendance calculation
