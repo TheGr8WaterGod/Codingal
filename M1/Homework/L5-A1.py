@@ -6,4 +6,4 @@ for i in range(0,n):
     z = x + y
     x = y
     y = z
-#we have to use z as a temporary storage space to store the sum of x and y before actually changing their values
+#we have to use z as a temporary storage space to store the sum of x and y before actually changing their value
